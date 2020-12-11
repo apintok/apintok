@@ -1,6 +1,6 @@
 Hi 👋 Everyone! 
 
-My name is André andi n short I'm a self learner.
+My name is André and in short I'm a self learner.
 
 Currently, I've been focusing myself in learning more about Web Development and all types of technologies used for _backend_ development and database management.
 With the aid of different online learning platforms I am focused on learning NodeJS and MongoDB. 
